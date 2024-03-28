@@ -18,3 +18,4 @@ We have pre-processed and cleaned the data before passing it to various ML Model
 6. Visualising the results
 
 # Prediction Results
+![image](https://github.com/Varun-2311/Stock-Price-Prediction/assets/156104639/6e56d756-9ed9-4c08-9f51-a37ebd01ea1d)
