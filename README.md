@@ -1,2 +1,3 @@
 # Stock-Price-Prediction
-gygy
+
+In this project we aim to predict the future price of an Indian stock namely TATA by using Recurrent Neural Network (RNN) and different variations of the Long Short Term Memory (LSTM) model. Here we perform time seies analysis which is a statistical approach that is used to analyse data of stock prices. By using historical data we identify patterns and make predictions about duture values.
